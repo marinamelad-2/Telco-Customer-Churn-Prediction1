@@ -1,18 +1,18 @@
-# 📉 Telco Customer Churn Prediction & Machine Learning Pipeline
+#  Telco Customer Churn Prediction & Machine Learning Pipeline
 
-## 📌 Project Overview
+##  Project Overview
 Customer churn (customer attrition) is a critical metric for telecommunications companies. This project focuses on analyzing customer data from a telecom provider to identify key factors contributing to churn and building robust machine learning classification models to predict whether a customer is likely to churn.
 
 ---
 
-## 👥 Team Members
-- **Marina Melad**
-- **Nariman Ahmed**
-- **Mennatallah Ahmed**
+##  Team Members
+- **Marina Melad maken**
+- **Nariman Ahmed shawky**
+- **Mennatallah Ahmed abdel salam**
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 The dataset used in this project is the **Telco Customer Churn** dataset (`Telco-Customer-Churn.csv`). It contains **7,043 rows** and **21 columns**, covering demographic data, subscribed services, account information, and churn status.
 
 ### **Features Overview:**
@@ -50,7 +50,7 @@ The project implements and compares multiple classification models:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### **Prerequisites**
 Make sure you have Python installed along with the required libraries:
@@ -66,7 +66,7 @@ Upload the Telco-Customer-Churn.csv dataset to your working directory or Google 
 
 Open the Notebook.ipynb file in Google Colab or Jupyter Notebook and run all cells sequentially.
 
-🛠️ Tools & Technologies Used
+ Tools & Technologies Used
 Python (Pandas, NumPy)
 
 Data Visualization: Matplotlib, Seaborn
